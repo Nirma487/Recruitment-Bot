@@ -1,0 +1,37 @@
+{
+    "timestamp": "2025-03-08 08:33:08",
+    "scores": {
+        "body_language": 4.420029895366218,
+        "posture": 8.466529404613647,
+        "active_listening": 7.049344190122122,
+        "attitude": 6.2151097941838165,
+        "communication": 5.047332993710516
+    },
+    "feedback": {
+        "body_language": {
+            "score": 4.420029895366218,
+            "strengths": "",
+            "improvements": "Try to use more hand gestures"
+        },
+        "posture": {
+            "score": 8.466529404613647,
+            "strengths": "Excellent posture maintained",
+            "improvements": ""
+        },
+        "active_listening": {
+            "score": 7.049344190122122,
+            "strengths": "Great engagement shown",
+            "improvements": ""
+        },
+        "attitude": {
+            "score": 6.2151097941838165,
+            "strengths": "",
+            "improvements": "Try to show more enthusiasm"
+        },
+        "communication": {
+            "score": 5.047332993710516,
+            "strengths": "",
+            "improvements": "Work on speaking clarity and pace"
+        }
+    }
+}
